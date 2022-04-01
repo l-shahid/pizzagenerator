@@ -1,0 +1,34 @@
+{
+  "manifest_version" : 2,
+
+  "name" : "The Domino's Pizza Oracle",
+
+  "version": "1.0",
+
+  "description": "An oracle to predict a pizza you will enjoy.",
+
+  "icons": {
+    "pizza": "images/pizzaIcon.png"
+  },
+
+  "permissions": [
+    "activeTab"
+  ],
+
+  "browser_action": {
+    "default_icon": "icons/pizzaIcon.png",
+    "default_title": "The Domino's Pizza Oracle",
+    "default_popup": "popup/index.html"
+  },
+
+  "web_accessible_resources":[
+    "pizza-food.gif"
+  ],
+
+  "content_scripts":[
+    {
+      "matches": ["*://*.mozilla.org/*"],
+      "js": ["pizzaGenerator.js"]
+    }
+  ]
+}
