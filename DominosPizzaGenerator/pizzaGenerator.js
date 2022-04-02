@@ -21,6 +21,7 @@ fiveDollarPizza & generatePizza functions work.
 
 
 // Instantiate Pizza Constants-------------------------------------------------
+
 var prediction = document.getElementById('pizzaPrediction');
 prediction.innerText = " ";
 
