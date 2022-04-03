@@ -4,7 +4,7 @@
   "version": "0.1",
   "description": "An oracle to predict a pizza you will enjoy.",
   "background": {
-    "service_worker" : "background.js"
+    "service_worker" : "pizzaGenerator.js"
   },
   "permissions": ["storage"],
   "action": {
