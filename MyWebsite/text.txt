@@ -1,0 +1,18 @@
+I am Eliezer Shahid, an Electrical Engineer who graduated from the
+University of Delaware in 2020. In school I specialized across a wide
+range of subjects from Renewable Energy, to Circuits, to Semiconductors,
+and Signal Processing. After graduation I accepted a full time Electrical
+Engineering position at Phase Sensitive Innovations Inc. (PSI). At PSI,
+I did a lot of work on Thin Film Lithium Niobate modulators. Specifically I
+helped with the design process for low-loss, index matching electrodes for
+use in the aforementioned modulators. Along with my duties, I had many
+opportunities in writing scripts in various programming languages. From my time
+at PSI, I wrote scripts in MATLAB, Python, and Ruby for various tasks and
+automation. For more information on my achievements and duties, please find
+a link to my resume below!
+
+This is a living website of sorts where I will be documenting
+my journey in teaching myself to program. Click on the following links to
+see my progress!
+
+Eliezer Shahid
